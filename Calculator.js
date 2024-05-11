@@ -132,7 +132,7 @@ function krog(){
         premer= r * 2 
         obseg = 2 * pi * r
     }
-    ConvertDataFromVeriablesToObject
+    ConvertDataFromVeriablesToObject()
     OutputData(dataInHTML, NeadedData)
 }
 //function krozniLok(){}
